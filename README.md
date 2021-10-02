@@ -8,7 +8,7 @@
 </h1><br>
 
 Since Hacktoberfest is here, we at VITspot have set up repositories for it. It's a program to educate people about open source contribution. 
-Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio.
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. It is open to everyone in global community._
 
 ### First: register on https://hacktoberfest.digitalocean.com/
 
