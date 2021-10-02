@@ -19,11 +19,11 @@ We have listed a few roadmaps with  their links. We will be going to make a repo
 
 
 ### Add minimum of 3 Questions with solutions for PR to get accepted
-### Make a PR to get featured on VITSPOT Gitub page.
+### Make a PR to be a part of this community.
 
 ## Steps to Contribute:
 
-1- Fork and clone the repository.
+1- Fork the repository.
 
 2- Follow the folder structure.
 
@@ -44,7 +44,11 @@ We have listed a few roadmaps with  their links. We will be going to make a repo
 
 5- If all the conditions will be verified your PR will get accepted.
 
+### Give a Star if you love contributing.
 
-## Contributing 
+### HAPPY CONTRIBUTING !!!
+
+
+## MORE
 1. Know about a roadmap that's not covered here, let us know! [Open an issue](https://github.com/vitspot/dsa-roadmaps/issues/new/choose)
 2. Solved a question? Send us your solution and we'd love to showcase it. [How to make a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
