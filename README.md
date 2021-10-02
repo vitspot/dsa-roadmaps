@@ -18,7 +18,8 @@ We have listed a few roadmaps with  their links. We will be going to make a repo
      A curated study plan to practice DSA concepts.
 
 
-### Add minimum of 3 Questions for PR to get accepted
+### Add minimum of 3 Questions with solutions for PR to get accepted
+### Make a PR to get featured on VITSPOT Gitub page.
 
 ## Steps to Contribute:
 
