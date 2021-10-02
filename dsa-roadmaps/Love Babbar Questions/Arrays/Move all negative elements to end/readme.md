@@ -1,4 +1,4 @@
-## Common elements
+## Move all negative elements to end
 
 Given an unsorted array arr[] of size N having both negative and positive integers. The task is place all negative element at the end of array without changing the order of positive element and negative element.
 
