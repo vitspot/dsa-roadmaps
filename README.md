@@ -5,17 +5,17 @@
 Data Structure and Algorithms play a vital role in solving problems and is very crucial thing in a software field as even in real world scenario as well.
 We have listed a few roadmaps with  their links. We will be going to make a repository for solutions of the these roadmap.
 
-1- [Beginners](https://github.com/baazis/dsa-roadmaps/tree/master/dsa-roadmaps/Beginners)
+### 1- [Beginners](https://github.com/baazis/dsa-roadmaps/tree/master/dsa-roadmaps/Beginners)
 
-    This folder is for beginners , want to add any question/ solution. Fork the repo and make a PR for it.
+`> This folder is for beginners , want to add any question/ solution. Fork the repo and make a PR for it.`
 
-2- [Love Babbar DSA Cracker 450 ques](https://github.com/baazis/dsa-roadmaps/tree/master/dsa-roadmaps/Love%20Babbar%20Questions)
+### 2- [Love Babbar DSA Cracker 450 ques](https://github.com/baazis/dsa-roadmaps/tree/master/dsa-roadmaps/Love%20Babbar%20Questions)
 
-    This is a curated list of questions of every topic in DSA from basic to advanced from reputed websites.
+`> This is a curated list of questions of every topic in DSA from basic to advanced from reputed websites.`
 
-3- [LeetCode Study Plan](https://github.com/baazis/dsa-roadmaps/tree/master/dsa-roadmaps/LeetCode%20Study%20Plan)
+### 3- [LeetCode Study Plan](https://github.com/baazis/dsa-roadmaps/tree/master/dsa-roadmaps/LeetCode%20Study%20Plan)
 
-     A curated study plan to practice DSA concepts.
+`> A curated study plan to practice DSA concepts.`
 
 
 ### Add minimum of 3 Questions with solutions for PR to get accepted
