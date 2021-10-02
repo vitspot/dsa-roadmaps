@@ -4,14 +4,18 @@
 
 Data Structure and Algorithms play a vital role in solving problems and is very crucial thing in a software field as even in real world scenario as well.
 We have listed a few roadmaps with  their links. We will be going to make a repository for solutions of the these roadmap.
-1- Beginners
+
+1- [Beginners](https://github.com/baazis/dsa-roadmaps/tree/master/dsa-roadmaps/Beginners)
+
     This folder is for beginners , want to add any question/ solution. Fork the repo and make a PR for it.
 
-2- Love Babbar DSA Cracker 450 ques
+2- [Love Babbar DSA Cracker 450 ques](https://github.com/baazis/dsa-roadmaps/tree/master/dsa-roadmaps/Love%20Babbar%20Questions)
+
     This is a curated list of questions of every topic in DSA from basic to advanced from reputed websites.
 
-3- LeetCode Study Plan
-    A curated study plan to practice DSA concepts.
+3- [LeetCode Study Plan](https://github.com/baazis/dsa-roadmaps/tree/master/dsa-roadmaps/LeetCode%20Study%20Plan)
+
+     A curated study plan to practice DSA concepts.
 
 
 ### Add minimum of 3 Questions for PR to get accepted
@@ -19,7 +23,9 @@ We have listed a few roadmaps with  their links. We will be going to make a repo
 ## Steps to Contribute:
 
 1- Fork and clone the repository.
+
 2- Follow the folder structure.
+
 3- Add a minimum of 3 questions with solutions for the PR to be accepted.
 
     eg- If you want to contribute questions of Data Structure -1  from leetcode study plan. Follow the folder and inside array folder make a new folder with the same name as question with two files.
@@ -27,18 +33,14 @@ We have listed a few roadmaps with  their links. We will be going to make a repo
     2- Solution file with extension (.cpp, .py, .c etc)
 
             [dsa-roadmaps]  ->    
-
-                        [Leetcode Study Plan] -> 
-
-                                        [Data Structures]  -> 
-
-                                                        [Data Structure-1] -> 
-
-                                                                [Contains Duplicate]  -> 1 -  readme.md
-                                                                
-                                                                                         2-   solution.cpp
+                     [Leetcode Study Plan] -> 
+                               [Data Structures]  -> 
+                                        [Data Structure-1] -> 
+                                                 [Contains Duplicate]  -> 1 -  readme.md                                                            
+                                                                          2-   solution.cpp
 
 4- After adding 3 questions make a PR to this parent repo.
+
 5- If all the conditions will be verified your PR will get accepted.
 
 
