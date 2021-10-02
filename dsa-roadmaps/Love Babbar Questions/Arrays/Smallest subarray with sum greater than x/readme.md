@@ -8,22 +8,22 @@ Note: The answer always exists. It is guaranteed that x doesn't exceed the summa
 
 Example 1:
 
-Input:
-A[] = {1, 4, 45, 6, 0, 19}
-x  =  51
-Output: 3
-Explanation:
-Minimum length subarray is 
-{4, 45, 6}
+ Input:
+ A[] = {1, 4, 45, 6, 0, 19}
+ x  =  51
+ Output: 3
+ Explanation:
+ Minimum length subarray is 
+ {4, 45, 6}
 
 Example 2:
 
-Input:
-A[] = {1, 10, 5, 2, 7}
-x  = 9
-Output: 1
-Explanation:
-Minimum length subarray is {10}
+ Input:
+ A[] = {1, 10, 5, 2, 7}
+ x  = 9
+ Output: 1
+ Explanation:
+ Minimum length subarray is {10}
 
 Expected Time Complexity: O(N)
 Expected Auxiliary Space: O(1)
