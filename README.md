@@ -1,4 +1,11 @@
-# Welcome to VITSPOT + Hacktoberfest 2021
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58622363/135716759-bc0c4278-cd81-40df-9078-6580480d0a58.png" />
+</p>
+
+
+<h1 align="center">
+   Welcome to VITSPOT + Hacktoberfest 2021
+</h1><br>
 
 ## DSA Roadmaps and practice
 
