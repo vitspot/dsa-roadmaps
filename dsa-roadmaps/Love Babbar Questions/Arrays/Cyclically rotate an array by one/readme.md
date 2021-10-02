@@ -1,4 +1,5 @@
-## Common elements
+## Cyclically rotate an array by one
+
 
 Given an array, rotate the array by one position in clock-wise direction.
 
