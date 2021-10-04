@@ -2,11 +2,11 @@
 #include<climits>
 using namespace std;
 
-int maxSum(int a[], int size)
+int maxSum(int a[], int s)
 {
     int max1=INT_MIN, max2 = 0;
 
-    for (int i = 0; i < size; i++)
+    for (int i = 0; i < s; i++)
     {
         max2 = max2 + a[i];
         if (max1 < max2)
@@ -21,15 +21,14 @@ int maxSum(int a[], int size)
 int main()
 {
     int n;
-    cout << "Enter limit: " << endl;
+    cout << "Enter limit: ";
     cin>>n;
     int a[n];
-    //  store input from user to array
     for (int i = 0; i < n; ++i) {
         cin >> a[i];
     }
     int m = sizeof(a)/sizeof(a[0]);
     int max_sum = maxSum(a, m);
-    cout << "Maximum contiguous sum is " << max_sum;
+    cout << max_sum;
     return 0;
 }
