@@ -4,17 +4,7 @@ using namespace std;
 
 int maxSum(int a[], int s)
 {
-    int max1=INT_MIN, max2 = 0;
-
-    for (int i = 0; i < s; i++)
-    {
-        max2 = max2 + a[i];
-        if (max1 < max2)
-            max1 = max2;
-
-        if (max2 < 0)
-            max2 = 0;
-    }
+   
     return max1;
 }
 
@@ -28,7 +18,18 @@ int main()
         cin >> a[i];
     }
     int m = sizeof(a)/sizeof(a[0]);
-    int max_sum = maxSum(a, m);
-    cout << max_sum;
+    
+     int max1=INT_MIN, max2 = 0;
+
+    for (int i = 0; i < s; i++)
+    {
+        max2 = max2 + a[i];
+        if (max1 < max2)
+            max1 = max2;
+
+        if (max2 < 0)
+            max2 = 0;
+    }
+    cout << max1;
     return 0;
 }
