@@ -1,3 +1,34 @@
+/*Algorithm quick_sort(A, p, r)
+    Input: Unsorted array A[p...r] and the indices of the first and last elements p and r
+    Output: Sorted and merged array A[p...r]
+
+    //boundary condition checking
+    if p < r then
+        //q is the index of the pivot or partitioning element
+        q = partition(A, p, r)
+        
+        //left partition of the array
+        quick_sort(A, p, q - 1)
+        //right partition of the array
+        quick_sort(A, q + 1, r)
+
+Algorithm partition(A, p, r)
+    Input: Unsorted array A[p...r] and the indices of the first and last elements p and r 
+    Output: The index of the partitioning element q
+
+    //let the last element of the array be the pivot element
+    //to place the pivot element x in the desired index
+    x = A[r]
+    i = p - 1
+    for j = p to r - 1
+        if A[j] <= x then
+            i = i + 1
+            //swap the elements A[i] and A[j] 
+    
+    //swap the elements A[i + 1] and A[r]
+    return i + 1
+*/
+
 #include <stdio.h>
 
 //Utility function for swapping
