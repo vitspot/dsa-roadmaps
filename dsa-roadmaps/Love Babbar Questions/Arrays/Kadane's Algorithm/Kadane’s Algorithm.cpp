@@ -2,19 +2,13 @@
 #include<climits>
 using namespace std;
 
-int maxSum(int a[], int s)
-{
-   
-    return max1;
-}
-
 int main()
 {
     int n;
     cout << "Enter limit: ";
     cin>>n;
     int a[n];
-    for (int i = 0; i < n; ++i) {
+    for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
     int m = sizeof(a)/sizeof(a[0]);
