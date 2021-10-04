@@ -7,9 +7,10 @@ int main()
     cout << "Enter limit: ";
     cin>>n;
     int a[n];
-    for (int i = 0; i < n; ++i) {
+    for (int i = 0; i < n; i++) {
         cin >> a[i];
     }
+     
     int m = sizeof(a) / sizeof(a[0]);
 
     int x = a[m - 1], i;
