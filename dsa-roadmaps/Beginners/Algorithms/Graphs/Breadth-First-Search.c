@@ -1,3 +1,35 @@
+/*Algorithm BFS(G, src)
+    Input: The graph G The graph G with V vertices and E edges and source vertex src
+    Output: The breadth first search of G
+
+    //initialize the vertices of G
+    for each vertex u in G except src{
+        u.visited = 0 //if vertex is visited or not
+        u.d = infinity //distance from src
+        u.pi = NIL //predecessor of u
+    }
+
+    src.visited = 1 ////source vertex is visited, print src
+    src.d = 0
+    src.pi = NIL
+
+    //Create an empty queue Q
+    //enqueue the source vertex into Q
+
+    while Q is not empty{
+        //dequeue Q and assign its value to u
+        for every adjacent vertex v of u{
+            if v.visited == 0 then{
+                v.visited = 1 //vertex is visited, print v
+                v.d = u.d + 1 //distance of v from src 
+                              //is distance of u from src + 1
+                v.pi = u //predecessor of v is u
+                //enqueue v into Q   
+            }
+        } 
+    }
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #define SIZE 40
