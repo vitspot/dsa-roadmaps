@@ -1,4 +1,4 @@
-## Binary search
+## Squares of a Sorted Array
 ### Problem Statement
 Given an integer array nums sorted in non-decreasing order. 
 
