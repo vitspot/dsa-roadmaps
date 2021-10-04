@@ -19,7 +19,7 @@ int main()
     }
     int m = sizeof(a)/sizeof(a[0]);
     
-     int max1=INT_MIN, max2 = 0;
+    int max1=INT_MIN, max2 = 0; // Remember
 
     for (int i = 0; i < s; i++)
     {
