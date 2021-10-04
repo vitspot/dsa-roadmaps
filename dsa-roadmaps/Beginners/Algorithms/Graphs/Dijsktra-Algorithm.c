@@ -1,3 +1,34 @@
+/*Algorithm dijkstraAlgorithm(G, src)
+    Input: The graph G with V vertices and the source vertex src
+    Output: The shortest path from the source vertex to every other vertex in 
+            G or the shortest path tree (SPT)
+
+    //Initialize SPT as an empty set
+    
+    //Initialize the distance values of all vertices as infinity except the
+    //source node
+    
+    //Initialize the distance value of source node (src) as 0
+    
+    //Repeat the following until the SPT does not contain all the vertices
+    {
+        //choose the vertex u which is not present in the SPT and has 
+        //the minimum distance value
+
+        //add the vertex u to the SPT
+
+        //update the distance values of the adjacent vertex of vertex u
+            for every adjacent vertex v of u {
+                if d(u) + w(u, v) < d(v) then
+                    d(v) = d(u) + w(u, v)
+                //d(u) is the distance between source and vertex u
+                //w(u, v) is the weight of the edge between u and v
+            }        
+    }
+
+    //Print the vertices and their distance from src
+*/
+
 #include<stdio.h>
 #include<stdbool.h>
 #include <limits.h>
