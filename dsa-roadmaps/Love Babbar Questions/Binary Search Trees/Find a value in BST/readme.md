@@ -11,7 +11,8 @@ Input:
 K = 4
 Output: 1 2 3 4
 Explanation: After inserting the node 4
-Inorder traversal will be 1 2 3 4.
+
+
 Example 2:
 
 Input:
@@ -23,7 +24,7 @@ Input:
 K = 4
 Output: 1 2 3 4 6
 Explanation: After inserting the node 4
-Inorder traversal of the above tree
+
 will be 1 2 3 4 6.
 
 Your Task:
