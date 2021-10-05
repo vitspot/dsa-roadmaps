@@ -14,3 +14,11 @@ Example 2:
 
     Input : HELLO WORLD
     Output : 4433555555666096667775553
+
+### Approach
+Follow the steps given below to convert a sentence into its equivalent mobile numeric keypad sequence. 
+ 
+1. For each character, store the sequence which should be obtained at its respective position in an array, i.e. for Z, store 9999. For Y, store 999. For K, store 55 and so on.
+2. For each character, subtract ASCII value of ‘A’ and obtain the position in the array pointed by that character and add the sequence stored in that array to a string.
+3. If the character is a space, store 0.
+4. Print the overall sequence.
