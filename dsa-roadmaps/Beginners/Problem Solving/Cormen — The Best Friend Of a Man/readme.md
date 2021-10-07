@@ -1,4 +1,5 @@
-Recently a dog was bought for Polycarp. The https://codeforces.com/contest/732/problem/B dog's name is Cormen. Now Polycarp has a lot of troubles. For example, Cormen likes going for a walk.
+https://codeforces.com/contest/732/problem/B
+Recently a dog was bought for Polycarp. The dog's name is Cormen. Now Polycarp has a lot of troubles. For example, Cormen likes going for a walk.
 
 Empirically Polycarp learned that the dog needs at least k walks for any two consecutive days in order to feel good. For example, if k = 5 and yesterday Polycarp went for a walk with Cormen 2 times, today he has to go for a walk at least 3 times.
 
