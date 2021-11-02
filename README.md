@@ -1,24 +1,10 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/58622363/135716759-bc0c4278-cd81-40df-9078-6580480d0a58.png" />
-</p>
+
 
 
 <h1 align="center">
-   Welcome to VITSPOT + Hacktoberfest 2021
+   Welcome to VITSPOT 2021
 </h1><br>
 
-Since Hacktoberfest is here, we at VITspot have set up repositories for it. It's a program to educate people about open source contribution. 
-Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. It is open to everyone in global community._
-
-### First: register on https://hacktoberfest.digitalocean.com/
-
-### How to get a tshirt : 
-If you make 4 pull requests that are accepted this month, you'll get a T-shirt and other schwag. 
-
-Note:
-You can contribute by designing, documentation, or code, whatever you feel comfortable in. In our two projects, you need to solve 3 DSA questions to get your pull request merged.
-
-### 4 quality pull requests = Hacktoberfest complete! 
 
 ## DSA Roadmaps and practice
 
